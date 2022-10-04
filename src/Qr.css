@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    border: 2px solid black;
+    display: grid;
+    grid-template-columns: auto;
+    margin-top: 2em;
+    text-align: center;
+}
